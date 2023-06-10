@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ExportDef": {
+      "commandName": "Project",
+      "commandLineArgs": "libiotgm.info libiotgm.def",
+      "workingDirectory": "C:\\Working\\electron-sample-apps\\rcim\\node-addon-api\\"
+    }
+  }
+}
